@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkal_MKdkr5Cq3bAZeb9i4iZvwvPLfitbyrA&s" align="centre" width="300" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkal_MKdkr5Cq3bAZeb9i4iZvwvPLfitbyrA&s" align="center" width="300" />
 
 # Square_numbers
 this application is based on reactjs
