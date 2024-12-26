@@ -55,7 +55,7 @@
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* Shimmer animation */
+
 @keyframes button-shimmer {
   0% {
     background-position: left top;
